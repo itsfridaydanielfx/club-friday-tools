@@ -33,6 +33,10 @@ Aplikacja wykorzystuje **Discord OAuth** do weryfikacji dostępu.
 - odpowiedzialność za wykorzystanie pobranego audio spoczywa na użytkowniku
 - aplikacja nie omija ŻADNYCH płatnych zabezpieczeń ani DRM
 
+JEŚLI SERWIS, Z KTÓREGO POBIERASZ BEATY ZMIENI ALGORYTM - POTRZEBNA BĘDZIE AKTUALIZACJA!
+KUPUJĄC DOSTĘP POTWIERDZASZ, ŻE ROZUMIESZ ZMIANY ALGORYTMÓW NA SERWISACH I NIE BĘDZIESZ PISAŁ,  ŻE APPKA NIE DZIAŁA!
+UPDATE BĘDĄ WYCHODZIĆ NA BIEŻĄCO, ŻEBY WSZYSTKO DZIAŁAŁO.
+
 ---
 
 **itsfridaydaniel**  
