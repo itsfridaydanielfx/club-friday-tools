@@ -15,8 +15,8 @@ Aplikacja wykorzystuje **Discord OAuth** do weryfikacji dostępu.
 ### 🎵 Pobieranie audio z linków:
 - ✅ **Znane formaty** - .mp3 i .wav.
 - ⭐ **Premium** - nie musisz już szukać konwerterów do .mp3 w Google - tutaj masz wszystko, co potrzebne.
-- ⚡ **Bezpiecznie** – bez przeglądarki, bez reklam i dodatkowych stron.
-- 🧼 **Bez wirusów** – bez malware i bez wirusów - prosta i czytelna aplikacja.
+- ⚡ **Bezpiecznie** - bez przeglądarki, bez reklam i dodatkowych stron.
+- 🧼 **Bez wirusów** - bez malware i bez wirusów - prosta i czytelna aplikacja.
 - 🔒 **Bez zbędnych uprawnień** – potrzebujesz tylko pokazać Discordowi, że jesteś na serwerze i masz rolę.
 
 ### 🔐 Dostęp przez Discord
