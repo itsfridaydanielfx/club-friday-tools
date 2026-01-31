@@ -8,7 +8,7 @@ Aplikacja wykorzystuje **Discord OAuth** do weryfikacji dostępu.
 
 ## 🚀 Pobierz aplikację:
 
-👉 **[Kliknij tutaj, aby pobrać instalator (Windows)](https://github.com/itsfridaydanielfx/club-friday-tools/releases/download/DROP/Club.Friday.Tools.Setup.1.0.0.exe)**
+👉 **[Kliknij tutaj, aby pobrać instalator (Windows)](https://github.com/itsfridaydanielfx/club-friday-tools/releases/download/v1.0.1/Club.Friday.Tools.Setup.1.0.1.exe)**
 
 ---
 
